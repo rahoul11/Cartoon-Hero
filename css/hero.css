@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: Helvetica
+}
+header {
+	background-color: #fff46d;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1 {
+	color: black;
+	font-family: Aharoni;
+	font-size: 50px;
+}
+header img {
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid white;
+}
+h1 {
+	color: white;
+	font-family: Aharoni;
+	font-size: 100px;
+}

@@ -1,0 +1,31 @@
+header img {
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid white;
+}
+header {
+	text-align: center;
+	background-color:#0e0b14;
+	padding-top :50px;
+	padding-bottom: 50px;
+
+}
+header h1{
+	color: white;
+	font-family: Aharoni, Helvetica;
+	font-size :50px;
+}
+header h2{
+	color: white;
+	font-family: Aharoni;
+	font-size: 30px;
+}
+body {
+	background-color: gray
+}
+ h1 {
+	color: white;
+	font-family: Aharoni;
+	font-size: 100px;
+	text-align: center;
+}
